@@ -37,7 +37,7 @@ Then in Claude Code:
 
 ### Claude Cowork
 
-1. Download the `.plugin` file from the [releases page](https://github.com/shashank-sn/stand-the-fuck-out/releases)
+1. Download the `.plugin` file
 2. Open Claude Cowork on your desktop
 3. Go to **Settings → Plugins → Install from file**
 4. Select the downloaded `stand-the-fuck-out.plugin` file
