@@ -1,5 +1,5 @@
 # stand-the-fuck-out
-A 10-skill brand positioning plugin for Claude Cowork and Claude Code. Built from the Stand the F*ck Out Playbook — a battle-tested system for going from invisible to unignorable.
+A 10-skill brand positioning plugin for Claude, Cowork and Code. Built from the Stand the F*ck Out Playbook — a battle-tested system for going from invisible to unignorable.
 
 Most brands don't have a marketing problem. They have a sameness problem. This plugin systematizes the entire process of finding, claiming, and defending a brand position that nobody else can copy.
 
