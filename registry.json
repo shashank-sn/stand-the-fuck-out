@@ -1,0 +1,207 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "stand-the-fuck-out",
+  "homepage": "https://github.com/shashank-sn/stand-the-fuck-out",
+  "items": [
+    {
+      "name": "brand-invisibility-audit",
+      "type": "registry:item",
+      "title": "Brand Invisibility Audit",
+      "description": "Scores your brand across messaging, visuals, and strategy. Use before any positioning work.",
+      "files": [
+        {
+          "path": "all-skills/brand-invisibility-audit.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/brand-invisibility-audit/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "order-winners-finder",
+      "type": "registry:item",
+      "title": "Order Winners Finder",
+      "description": "Find what actually makes customers choose you over alternatives.",
+      "files": [
+        {
+          "path": "all-skills/order-winners-finder.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/order-winners-finder/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "blue-ocean-mapper",
+      "type": "registry:item",
+      "title": "Blue Ocean Mapper",
+      "description": "Map competitive white space and find territory nobody has claimed.",
+      "files": [
+        {
+          "path": "all-skills/blue-ocean-mapper.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/blue-ocean-mapper/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "value-bucket-builder",
+      "type": "registry:item",
+      "title": "Value Bucket Builder",
+      "description": "Extract functional, emotional, social, and aspirational value to craft your brand promise.",
+      "files": [
+        {
+          "path": "all-skills/value-bucket-builder.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/value-bucket-builder/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "anti-positioning-generator",
+      "type": "registry:item",
+      "title": "Anti-Positioning Generator",
+      "description": "Build bold exclusion messaging — 'we're not for you' statements that magnetize the right people.",
+      "files": [
+        {
+          "path": "all-skills/anti-positioning-generator.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/anti-positioning-generator/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "ai-positioning-sprint",
+      "type": "registry:item",
+      "title": "AI Positioning Sprint",
+      "description": "Run the complete 25-minute positioning workflow from scratch.",
+      "files": [
+        {
+          "path": "all-skills/ai-positioning-sprint.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/ai-positioning-sprint/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "category-creator",
+      "type": "registry:item",
+      "title": "Category Creator",
+      "description": "Name and own a new market category so you stop being compared to competitors.",
+      "files": [
+        {
+          "path": "all-skills/category-creator.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/category-creator/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "customer-journey-optimizer",
+      "type": "registry:item",
+      "title": "Customer Journey Optimizer",
+      "description": "Find and fix friction points across your customer funnel.",
+      "files": [
+        {
+          "path": "all-skills/customer-journey-optimizer.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/customer-journey-optimizer/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "positioning-health-check",
+      "type": "registry:item",
+      "title": "Positioning Health Check",
+      "description": "Quarterly audit to check if your positioning is still working or being eroded.",
+      "files": [
+        {
+          "path": "all-skills/positioning-health-check.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/positioning-health-check/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "stand-out-blueprint",
+      "type": "registry:item",
+      "title": "Stand-Out Blueprint",
+      "description": "Synthesize everything into a one-page deployable brand strategy.",
+      "files": [
+        {
+          "path": "all-skills/stand-out-blueprint.skill",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/stand-out-blueprint/SKILL.md"
+        }
+      ]
+    },
+    {
+      "name": "all-skills",
+      "type": "registry:item",
+      "title": "All Skills Bundle",
+      "description": "All 10 brand positioning skills in one install. Run the full Stand the F*ck Out journey.",
+      "registryDependencies": [
+        "shashank-sn/stand-the-fuck-out/brand-invisibility-audit",
+        "shashank-sn/stand-the-fuck-out/order-winners-finder",
+        "shashank-sn/stand-the-fuck-out/blue-ocean-mapper",
+        "shashank-sn/stand-the-fuck-out/value-bucket-builder",
+        "shashank-sn/stand-the-fuck-out/anti-positioning-generator",
+        "shashank-sn/stand-the-fuck-out/ai-positioning-sprint",
+        "shashank-sn/stand-the-fuck-out/category-creator",
+        "shashank-sn/stand-the-fuck-out/customer-journey-optimizer",
+        "shashank-sn/stand-the-fuck-out/positioning-health-check",
+        "shashank-sn/stand-the-fuck-out/stand-out-blueprint"
+      ],
+      "files": [
+        {
+          "path": "all-skills/desc",
+          "type": "registry:file",
+          "target": "~/.commandcode/skills/stand-the-fuck-out/desc"
+        }
+      ]
+    },
+    {
+      "name": "concepts",
+      "type": "registry:item",
+      "title": "Stand the F*ck Out Concepts",
+      "description": "Core concept guides — why standing out matters, how to do it, and the 10 skills framework.",
+      "files": [
+        {
+          "path": "learn the concepts/why-standing-out-is-a-business-strategy.md",
+          "type": "registry:file",
+          "target": "~/docs/stand-out/why-standing-out-is-a-business-strategy.md"
+        },
+        {
+          "path": "learn the concepts/how-to-stand-the-fuck-out.md",
+          "type": "registry:file",
+          "target": "~/docs/stand-out/how-to-stand-the-fuck-out.md"
+        },
+        {
+          "path": "learn the concepts/10-skills-guide.md",
+          "type": "registry:file",
+          "target": "~/docs/stand-out/10-skills-guide.md"
+        }
+      ]
+    },
+    {
+      "name": "full-plugin",
+      "type": "registry:item",
+      "title": "Full Plugin",
+      "description": "The complete Stand the F*ck Out plugin with all skills and concepts.",
+      "registryDependencies": [
+        "shashank-sn/stand-the-fuck-out/all-skills",
+        "shashank-sn/stand-the-fuck-out/concepts"
+      ],
+      "files": [
+        {
+          "path": "plugin/stand-the-fuck-out.plugin",
+          "type": "registry:file",
+          "target": "~/.commandcode/plugins/stand-the-fuck-out.plugin"
+        },
+        {
+          "path": "plugin/desc",
+          "type": "registry:file",
+          "target": "~/.commandcode/plugins/stand-the-fuck-out/desc"
+        }
+      ]
+    }
+  ]
+}
