@@ -1,0 +1,38 @@
+{
+  "name": "stand-the-f-out",
+  "version": "0.1.0",
+  "description": "Stand the F*ck Out — a 10-skill brand positioning CLI for any terminal",
+  "main": "src/index.js",
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ],
+  "bin": {
+    "sto": "./bin/sto.js",
+    "stand-the-f-out": "./bin/sto.js"
+  },
+  "scripts": {
+    "test": "node --check src/index.js && node --check src/skills.js && node --check src/runner.js && node --check src/util.js && node --check bin/sto.js"
+  },
+  "keywords": [
+    "brand",
+    "positioning",
+    "marketing",
+    "strategy",
+    "cli",
+    "differentiation",
+    "blue-ocean",
+    "category-design"
+  ],
+  "author": "Shashank <https://x.com/istupidpreneur>",
+  "license": "MIT",
+  "homepage": "https://github.com/shashank-sn/stand-the-fuck-out",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashank-sn/stand-the-fuck-out.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

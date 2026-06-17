@@ -1,0 +1,13 @@
+# Generated CLI outputs
+*-????-??-??.md
+
+# Node
+node_modules/
+*.log
+
+# OS
+.DS_Store
+
+# Test artifacts
+test-prompter.js
+/tmp
