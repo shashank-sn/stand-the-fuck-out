@@ -1,0 +1,6 @@
+{
+  "name": "Default",
+  "repositoryDependencies": [
+    "github.com/shashank-sn/skills"
+  ]
+}
