@@ -2,5 +2,6 @@
   "name": "Default",
   "repositoryDependencies": [
     "github.com/shashank-sn/skills"
-  ]
+  ],
+  "install": "git clone --depth 1 --branch main https://github.com/shashank-sn/skills.git /tmp/cursor-skills-sync && SKILLS_SYNC_ROOT=/tmp/cursor-skills-sync bash /tmp/cursor-skills-sync/scripts/cursor-cloud-install.sh"
 }
